@@ -187,6 +187,3 @@ The parameters are:
 All the parameters, except the `-Dgroups` are pointing to Heroku because we can't run it locally.
 It's a great example about how can you set different attribute values to run your tests.
 
-## Do you want to help?
-
-Please read the [Contribution guide](CONTRIBUTING.md)
